@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Small, composable, offline-first Go tooling.</b><br>
-  Most repos carry zero third-party dependencies, and nothing phones home.
+  Runs offline, and nothing phones home.
 </p>
 
 <p align="center">
