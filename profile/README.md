@@ -1,13 +1,11 @@
 <h1 align="center">toawe.me</h1>
 
 <p align="center">
-  <b>Small, composable, offline-first Go tooling.</b><br>
-  Runs offline, and nothing phones home.
+  <b>Small, composable, offline-first Go tooling and apps.</b><br>
 </p>
 
 <p align="center">
-  <a href="https://toawe.me">toawe.me</a> ·
-  <a href="https://code.toawe.me">code.toawe.me</a>
+  <a href="https://toawe.me">toawe.me</a>
 </p>
 
 ---
@@ -18,6 +16,7 @@
 |---|---|---|
 | ⚡ | **[blink](https://github.com/toaweme/blink)** | Boots your entire dev stack (shell, Go, Node, Docker) with multiplexed logs, live reload, and port reclaiming, behind a TUI. Zero-config for the common case, fully offline. |
 | 🩺 | **[care](https://github.com/toaweme/care)** | Runs every quality, security, dependency, and test check for a repo in one command and grades it. Built for working across many repos and languages at once. |
+| 🔭 | **[codeview](https://github.com/toaweme/codeview)** | Fast, read-only web UI for your git repositories. Point it at a folder of bare repos or working copies and browse code, commits, diffs and blame. [Live demo](https://git.toawe.me). |
 
 ### Engine
 
@@ -39,6 +38,6 @@ The small modules that blink and care are built on. Each stands alone.
 ---
 
 <p align="center">
-  Apache-2.0. Built to run offline, self-hostable, no lock-in.<br>
+  Apache-2.0.<br>
   Made with ❤️ in Lithuania 🇱🇹.
 </p>
